@@ -1,0 +1,9 @@
+1 app.js
+2 commence ses route basse et route specifique
+3sa connection et parametrage db model
+4sa querymodel
+5dto
+6vadidator
+7service
+8controlleur
+9route specifique
